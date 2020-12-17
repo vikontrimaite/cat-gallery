@@ -25,9 +25,11 @@ div {
     display: flex;
     justify-content: space-around;
     margin: 10px;
+    margin-bottom: 25px;
 }
 
 .preview{
     width: 10%;
     border: 2px solid gold;
+    border-radius: 50%;
 }
