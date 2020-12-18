@@ -1,7 +1,7 @@
 function upDate(element) {
     document.getElementById('mainBox').innerHTML = element.alt;
 
-    document.getElementById('mainBox').style.background = "url('"+element.src+"')";
+    document.getElementById('mainBox').style.background = `url(${element.src})`;
 }
 
 function unDo() {
