@@ -6,7 +6,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#mainBox{
+#mainBox {
     background-image: url('');
     background-size: cover;
     height: 500px;
@@ -28,7 +28,7 @@ div {
     margin-bottom: 24px;
 }
 
-.preview{
+.preview {
     width: 10%;
     border: 2px solid gold;
     border-radius: 50%;
